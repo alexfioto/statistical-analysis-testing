@@ -2,7 +2,7 @@ README.md
 
 # 2017-2018 SAT/ACT Data Analysis
 
-![](statistical-analysis-testing/images/session-1989711_1280.png)
+
 ### Introduction
 Using SAT/ACT data from 2017 and 2018, this project details and documents the fundamentals of data analysis utilizing the following libaries:
 - **matplotlib**: data visualization
